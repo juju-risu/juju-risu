@@ -22,9 +22,6 @@ I'm continuously developing my skills in software engineering while working towa
 - 🌱 I'm currently learning **JavaScript, TypeScript, AI Integration, and Security Systems Architecture**
 - 👯 I'm looking to collaborate on **Open-Source Projects, AI Applications, and Software Development**
 - 🤔 I'm interested in exploring **Secure System Design, Infrastructure, and Cybersecurity**
-- 💬 Ask me about **Python, FastAPI, JavaScript, Next.js, and Backend Development**
-- 📫 How to reach me: **christiandraecom@gmail.com**
-- ⚡ Fun fact: **I enjoy exploring how software, automation, and security come together to build better systems.**
 
 ## 🛠️ Tech Stack
 
